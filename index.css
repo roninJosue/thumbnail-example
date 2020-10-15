@@ -1,0 +1,21 @@
+#image {
+    display: none;
+}
+
+#imagePreview{
+    width: 200px;
+    height: 100%;
+}
+
+label {
+    cursor: pointer;
+}
+
+figure {
+    width: 300px;
+    height: auto;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
